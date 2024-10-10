@@ -1,5 +1,4 @@
 -  Hi, I’m @Zihang-L, now a senior undergradutate in University of Science and Technology of China, majoring in Mathematics and Applied mathematics
 -  I’m interested in high dimensional probability, Gaussian asymptotics, stochastic processes and stochastic differential equations.
 -  I’m currently learning stochastic differential equations.
--  Now I'm taking an internship about AI
 - 📫 My email: zihangliang38@gmail.com
